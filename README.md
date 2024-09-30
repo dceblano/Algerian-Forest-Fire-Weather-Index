@@ -1,0 +1,1 @@
+The aim of this task is to process and clean the dataset, generate visualizations, and derive insights from the Algerian forest fire dataset by analyzing the Fire Weather Index (FWI). 
